@@ -10,7 +10,7 @@
 
 <body>
     <h1>Hola</h1>
-    <a href="{{route('global')}}">Global</a>
+
 </body>
 
 </html>

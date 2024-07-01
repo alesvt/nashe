@@ -9,5 +9,6 @@
 <body>
 
     <h1>Nashe</h1>
+    <a href="{{route('global')}}">Global</a>
 </body>
 </html>
