@@ -12,7 +12,7 @@
     </head>
 
     <body>
-        ranking global 
+        ranking global
     </body>
 
     </html>
