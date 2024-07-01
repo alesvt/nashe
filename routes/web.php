@@ -3,8 +3,8 @@
 use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
-});
+})->name('inicio');
 
-Route::get('/hola', function () {
-    return view('hola');
-});
+Route::get('/ranking-global', function(){
+    return view('ranking-global');
+})->name('global');
